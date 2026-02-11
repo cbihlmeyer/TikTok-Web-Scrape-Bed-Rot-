@@ -26,8 +26,8 @@ Learn how to scrape TikTok for transcripts, on-screen text, and post description
 
 
 ## Getting Started
-1. Clone the repo: `git clone https://github.com/<your-username>/<your-repo>.git`
-2. Install dependencies:
+1. Clone the repo: `git clone https://github.com/cbihlmeyer/TikTok_Web_Scrape_Bed_Rot.git`
+3. Install dependencies:
    
 R (needed for the .Rmd files):
 
